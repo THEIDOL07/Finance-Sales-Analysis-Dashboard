@@ -33,11 +33,15 @@ The source workbook has five sheets: **Transactions, Customers, Accounts, Produc
 
 | Home | Transaction Analysis |
 |---|---|
-| ![Home](images/home.png) | ![Transaction Analysis](images/transaction-analysis.png) |
+| ![Home](<img width="1373" height="775" alt="image" src="https://github.com/user-attachments/assets/c6e60bd2-02e7-4404-bf61-c6b2f28323ff" />
+) | ![Transaction Analysis](<img width="1377" height="773" alt="image" src="https://github.com/user-attachments/assets/79dba82a-341f-4f4f-83d1-5e9b7e3b6e68" />
+) |
 
 | Customer & Product Analysis | Insights |
 |---|---|
-| ![Customer & Product Analysis](images/customer-product-analysis.png) | ![Insights](images/insights.png) |
+| ![Customer & Product Analysis](<img width="1377" height="776" alt="image" src="https://github.com/user-attachments/assets/ee73016d-abe4-4045-9517-2a6ca2f629b0" />
+) | ![Insights](<img width="1373" height="772" alt="image" src="https://github.com/user-attachments/assets/e2dc494b-bc7c-4886-bfdc-e62878bceca2" />
+) |
 
 ## Key Insights
 
@@ -54,7 +58,6 @@ The source workbook has five sheets: **Transactions, Customers, Accounts, Produc
 1. Clone or download this repository.
 2. Open `Finance_Report.pbix` in Power BI Desktop.
 3. Use the Year, Currency and Region slicers and the navigation buttons to explore the report.
-
 A static PDF export is also included: `Finance_Report.pdf`.
 
 
