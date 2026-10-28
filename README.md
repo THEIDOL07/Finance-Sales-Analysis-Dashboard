@@ -57,22 +57,9 @@ The source workbook has five sheets: **Transactions, Customers, Accounts, Produc
 
 A static PDF export is also included: `Finance_Report.pdf`.
 
-## Repository Structure
-
-```
-├── Finance_Report.pbix
-├── Finance_Report.pdf
-├── finance_dataset_multitable.xlsx
-├── images/
-│   ├── home.png
-│   ├── transaction-analysis.png
-│   ├── customer-product-analysis.png
-│   └── insights.png
-└── README.md
-```
 
 ## Author
 
-**Habeeb**
+**Habeeb Mohamed**
 Aspiring Data Analyst | SQL (MySQL) · Python · Excel · Power BI
-GitHub: [your-username](https://github.com/your-username) · LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+GitHub: [THEIDOL)&](https://github.com/your-username) · LinkedIn: [your-profile](www.linkedin.com/in/habeeb-mohamed-77004b416)
