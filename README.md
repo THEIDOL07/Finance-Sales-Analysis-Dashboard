@@ -62,4 +62,4 @@ A static PDF export is also included: `Finance_Report.pdf`.
 
 **Habeeb Mohamed**
 Aspiring Data Analyst | SQL (MySQL) · Python · Excel · Power BI
-GitHub: [THEIDOL)&](https://github.com/your-username) · LinkedIn: [your-profile](www.linkedin.com/in/habeeb-mohamed-77004b416)
+GitHub: [THEIDOL07](https://github.com/THEIDOL07) · LinkedIn: [your-profile](www.linkedin.com/in/habeeb-mohamed-77004b416)
