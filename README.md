@@ -29,16 +29,6 @@ The source workbook has five sheets: **Transactions, Customers, Accounts, Produc
 3. **Customer & Product Analysis** – top 10 customers, customer segments, product treemap, customers by year, amount by category and a category ribbon chart.
 4. **Insights** – key findings and recommendations.
 
-## Screenshots
-
-| Home | Transaction Analysis |
-[Home](<img width="1373" height="775" alt="image" src="https://github.com/user-attachments/assets/c6e60bd2-02e7-4404-bf61-c6b2f28323ff" />)  
-[Transaction Analysis](<img width="1377" height="773" alt="image" src="https://github.com/user-attachments/assets/79dba82a-341f-4f4f-83d1-5e9b7e3b6e68" />)
-
-| Customer & Product Analysis | Insights |
-
-[Customer & Product Analysis](<img width="1377" height="776" alt="image" src="https://github.com/user-attachments/assets/ee73016d-abe4-4045-9517-2a6ca2f629b0"/>)  ![Insights](<img width="1373" height="772" alt="image" src="https://github.com/user-attachments/assets/e2dc494b-bc7c-4886-bfdc-e62878bceca2" />)
-
 ## Key Insights
 
 - **Transaction health:** Status is split evenly: 33.3% Completed, 33.3% Failed, 33.3% Pending. Reducing failures and clearing pending items is the biggest opportunity.
